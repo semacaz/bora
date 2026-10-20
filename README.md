@@ -1,0 +1,1 @@
+BORA landing page with improved profile photo and supplied 1win logo on the top game button. Upload index.html, style.css, script.js, profile.jpg, 1win-logo.jpg, and README.md together to the root of your GitHub repository.
