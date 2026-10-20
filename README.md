@@ -1,1 +1,0 @@
-BORA landing page with updated profile photo. Upload index.html, style.css, script.js, profile.jpg, and README.md together to the root of your GitHub repository.
